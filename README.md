@@ -1,7 +1,7 @@
-# Clips app
-An example random generator app for pet exibition illustrating features of new library 'graphics:graphics-shapes'.
+# Generator app
+Random generator app for pet exhibition illustrating features of new library 'graphics:graphics-shapes'.
 
-This sample has two screens with settings and random generator.
+The app has two screens with settings and random generator.
 
 ## Screenshot
 
