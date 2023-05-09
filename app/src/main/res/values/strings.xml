@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Generator</string>
+    <string name="participants">Participants</string>
+    <string name="first_participant">First participant</string>
+    <string name="last_participant">Last participant</string>
+    <string name="exhibition_type">Exhibition type</string>
+    <string name="dogs">Dogs</string>
+    <string name="cats">Cats</string>
+    <string name="next">Next</string>
+    <string name="settings">Settings</string>
+    <string name="generator">Generator</string>
+</resources>
